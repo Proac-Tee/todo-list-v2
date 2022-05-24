@@ -1,6 +1,6 @@
 # Newsletter-signup-demo
 
-The goal of this project is to mimic a a newsletter signup page in a company's website using mailchip as the mail automation platform and heroku to launch
+The goal of this project is to mimic a a newsletter signup page in a company's website with backend development using mailchip as the mail automation platform and heroku to launch
 
 # To instal dependencies
 
