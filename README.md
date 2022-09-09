@@ -9,8 +9,6 @@ The goal of this project is to mimic a todo-list page using an heroku and Node.j
 - HTML
 - JavaScript
 - EJS
-- Mailchip
-- Heroku
 
 # To install dependencies
 
